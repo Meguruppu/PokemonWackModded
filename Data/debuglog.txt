@@ -1,0 +1,250 @@
+***Round 1***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Destiny Bond
+***Round 2***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Destiny Bond
+***Round 3***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Star Finger
+[The wild Stando lost 182 HP, now has 0 HP]
+[The wild Stando fainted]
+[Haicaw lost 235 HP, now has 0 HP]
+[Haicaw fainted]
+***Round 1***
+***Round 1***
+[AI] Heat Up: final score: 90
+[AI] Heat Up: final score: 90
+[AI] Solidify: final score: 90
+[AI] Solidify: final score: 90
+[AI] Eruption: damage (base=>percentage) 150=>120
+      score change: 100=>220
+[AI] Eruption: final score: 220
+[AI] Eruption: damage (base=>percentage) 150=>147
+      score change: 100=>247
+[AI] Eruption: final score: 247
+[AI] Amnesia: final score: 130
+[AI] Amnesia: final score: 130
+[AI] The foe Heruptin: Heat Up=5, Solidify=5, Eruption=247, Amnesia=5
+[AI] Prefer Eruption
+[AI] SolarBeam: damage (base=>percentage) 120=>168
+      score change: 100=>268
+[AI] SolarBeam: final score: 268
+[AI] SolarBeam: damage (base=>percentage) 120=>41
+      score change: 100=>141
+[AI] SolarBeam: final score: 141
+[AI] Sunset: damage (base=>percentage) 150=>168
+      score change: 130=>298
+[AI] Sunset: final score: 298
+[AI] Sunset: damage (base=>percentage) 150=>120
+      score change: 130=>250
+[AI] Sunset: final score: 250
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>168
+      score change: 100=>268
+[AI] Light That Burns The Sky: final score: 268
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>103
+      score change: 100=>203
+[AI] Light That Burns The Sky: final score: 203
+[AI] UV Burst: damage (base=>percentage) 100=>91
+      score change: 10=>101
+[AI] UV Burst: final score: 101
+[AI] UV Burst: damage (base=>percentage) 100=>120
+      score change: 10=>130
+[AI] UV Burst: final score: 130
+[AI] The foe Necrozma: SolarBeam=5, Sunset=250, Light That Burns The Sky=203, UV Burst=5
+[AI] Prefer Sunset
+[The foe Heruptin lost 88 HP, now has 203 HP]
+[The foe Heruptin lost 24 HP, now has 179 HP]
+[Haicaw lost 235 HP, now has 0 HP]
+[Haicaw fainted]
+[Gettarobo lost 195 HP, now has 54 HP]
+***Round 2***
+[AI] Heat Up: final score: 90
+[AI] Heat Up: final score: 90
+[AI] Solidify: final score: 90
+[AI] Solidify: final score: 90
+[AI] Eruption: damage (base=>percentage) 92=>89
+      score change: 100=>189
+[AI] Eruption: final score: 189
+[AI] Eruption: damage (base=>percentage) 92=>168
+      score change: 100=>268
+[AI] Eruption: final score: 268
+[AI] Amnesia: final score: 90
+[AI] Amnesia: final score: 90
+[AI] The foe Heruptin: Heat Up=5, Solidify=5, Eruption=268, Amnesia=5
+[AI] Prefer Eruption
+[AI] SolarBeam: damage (base=>percentage) 120=>168
+      score change: 100=>268
+[AI] SolarBeam: final score: 268
+[AI] SolarBeam: damage (base=>percentage) 120=>13
+      score change: 100=>113
+[AI] SolarBeam: final score: 113
+[AI] Sunset: damage (base=>percentage) 150=>168
+      score change: 130=>298
+[AI] Sunset: final score: 298
+[AI] Sunset: damage (base=>percentage) 150=>120
+      score change: 130=>250
+[AI] Sunset: final score: 250
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>168
+      score change: 100=>268
+[AI] Light That Burns The Sky: final score: 268
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>120
+      score change: 100=>220
+[AI] Light That Burns The Sky: final score: 220
+[AI] UV Burst: damage (base=>percentage) 100=>168
+      score change: 10=>178
+[AI] UV Burst: final score: 178
+[AI] UV Burst: damage (base=>percentage) 100=>22
+      score change: 10=>32
+[AI] UV Burst: final score: 32
+[AI] The foe Necrozma: SolarBeam=5, Sunset=298, Light That Burns The Sky=268, UV Burst=5
+[AI] Prefer Sunset
+[The foe Heruptin lost 119 HP, now has 60 HP]
+[Arbrood lost 60 HP, now has 234 HP]
+[Gettarobo lost 54 HP, now has 0 HP]
+[Gettarobo fainted]
+[Arbrood lost 92 HP, now has 142 HP]
+***Round 3***
+[AI] SolarBeam: damage (base=>percentage) 120=>16
+      score change: 100=>116
+[AI] SolarBeam: final score: 116
+[AI] SolarBeam: damage (base=>percentage) 120=>28
+      score change: 100=>128
+[AI] SolarBeam: final score: 128
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>120
+      score change: 100=>220
+[AI] Light That Burns The Sky: final score: 220
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>120
+      score change: 100=>220
+[AI] Light That Burns The Sky: final score: 220
+[AI] UV Burst: damage (base=>percentage) 100=>27
+      score change: 10=>37
+[AI] UV Burst: final score: 37
+[AI] UV Burst: damage (base=>percentage) 100=>46
+      score change: 10=>56
+[AI] UV Burst: final score: 56
+[AI] The foe Necrozma: SolarBeam=5, Sunset=0, Light That Burns The Sky=220, UV Burst=5
+[AI] Prefer Light That Burns The Sky
+[The foe Heruptin gained 231 HP, now has 291 HP]
+[The foe Heruptin lost 102 HP, now has 189 HP]
+[Arbrood lost 34 HP, now has 108 HP]
+[The foe Heruptin lost 189 HP, now has 0 HP]
+[The foe Heruptin fainted]
+[Warchon lost 273 HP, now has 0 HP]
+[Warchon fainted]
+***Round 4***
+[AI] Light Screen: final score: 90
+[AI] Light Screen: final score: 90
+[AI] V-create: damage (base=>percentage) 180=>120
+      score change: 100=>220
+[AI] V-create: final score: 220
+[AI] V-create: damage (base=>percentage) 180=>17
+      score change: 100=>117
+[AI] V-create: final score: 117
+[AI] Thunderbolt: damage (base=>percentage) 95=>120
+      score change: 90=>210
+[AI] Thunderbolt: final score: 210
+[AI] Thunderbolt: damage (base=>percentage) 95=>32
+      score change: 90=>122
+[AI] Thunderbolt: final score: 122
+[AI] Reflect: final score: 90
+[AI] Reflect: final score: 90
+[AI] The foe Victini: Light Screen=5, V-create=220, Thunderbolt=210, Reflect=5
+[AI] Prefer V-create
+[AI] SolarBeam: damage (base=>percentage) 60=>0
+      score change: 100=>100
+[AI] SolarBeam: final score: 100
+[AI] SolarBeam: damage (base=>percentage) 60=>0
+      score change: 100=>100
+[AI] SolarBeam: final score: 100
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>96
+      score change: 100=>196
+[AI] Light That Burns The Sky: final score: 196
+[AI] Light That Burns The Sky: damage (base=>percentage) 200=>120
+      score change: 100=>220
+[AI] Light That Burns The Sky: final score: 220
+[AI] UV Burst: damage (base=>percentage) 100=>8
+      score change: 120=>128
+[AI] UV Burst: final score: 128
+[AI] UV Burst: damage (base=>percentage) 100=>61
+      score change: 120=>181
+[AI] UV Burst: final score: 181
+[AI] The foe Necrozma: SolarBeam=5, Sunset=0, Light That Burns The Sky=220, UV Burst=181
+[AI] Prefer UV Burst
+[Arbrood lost 108 HP, now has 0 HP]
+[Arbrood fainted]
+[The foe Victini lost 28 HP, now has 313 HP]
+[Lunighton lost 47 HP, now has 271 HP]
+***Round 1***
+[AI] The wild Coraut: Nasty Plot=100, Hell Drag=100, Shadow Gaze=100, Chaos Rift=100
+[AI] Chose move Shadow Gaze
+[Form changed] Aegislash changed to Blade Forme
+[The wild Coraut lost 171 HP, now has 8 HP]
+***Round 2***
+[AI] The wild Coraut: Nasty Plot=100, Hell Drag=100, Shadow Gaze=100, Chaos Rift=100
+[AI] Chose move Hell Drag
+***Round 3***
+[Debug Point A] Aegislash 0
+[Debug Point A] The wild Stando 5
+[Debug Point B] The wild Stando 0
+***Round 1***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Fury
+[Debug Point C] Aegislash 0
+[Form changed] Aegislash changed to Blade Forme
+[The wild Stando lost 171 HP, now has 0 HP]
+[The wild Stando fainted]
+[Debug Point A] Aegislash 1
+[Debug Point B] Aegislash 0
+[Debug Point A] The wild Stando 0
+[Debug Point A]  0
+[Debug Point A] The wild  0
+[Debug Point D] Aegislash 0
+[Debug Point A] Aegislash 0
+[Debug Point A] Aegislash 0
+[Debug Point A] The wild Stando 2
+[Debug Point B] The wild Stando 0
+***Round 1***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Destiny Bond
+[Debug Point C] Aegislash 0
+[Form changed] Aegislash changed to Blade Forme
+[Debug Point A] Aegislash 1
+[Debug Point B] Aegislash 0
+[Debug Point A] The wild Stando 0
+[Debug Point A]  0
+[Debug Point A] The wild  0
+[Debug Point D] Aegislash 0
+[Debug Point C] The wild Stando 0
+[Debug Point A] Aegislash 0
+[Debug Point A] The wild Stando 0
+[Debug Point A]  0
+[Debug Point A] The wild  0
+[Debug Point D] The wild Stando 0
+[Debug Point A] Aegislash 0
+[Debug Point A] The wild Stando 0
+***Round 2***
+[Debug Point A] Arbrood 0
+[Debug Point A] The wild Stando 0
+***Round 1***
+[AI] The wild Stando: Star Finger=100, Destiny Bond=100, Fury=100, Za Warudo=100
+[AI] Chose move Fury
+[Debug Point C] Arbrood 1
+[The wild Stando lost 85 HP, now has 76 HP]
+[Debug Point A] Arbrood 1
+[Debug Point B] Arbrood 0
+[Debug Point A] The wild Stando 0
+[Debug Point A]  0
+[Debug Point A] The wild  0
+[Debug Point D] Arbrood 0
+[Debug Point C] The wild Stando 0
+[Arbrood lost 71 HP, now has 223 HP]
+[Debug Point A] Arbrood 0
+[Debug Point A] The wild Stando 0
+[Debug Point A]  0
+[Debug Point A] The wild  0
+[Debug Point D] The wild Stando 0
+[Debug Point A] Arbrood 0
+[Debug Point A] The wild Stando 0
+***Round 2***
+[reusing commands for the wild Stando]
