@@ -6,4 +6,5 @@ NOTES TO MAINTAINERS:
 2. Place all new map files into Data2, github truncates directories to 1000 files for whatever reason
 
 RESOURCES (Includes Audio, and existing graphics needed for the game to run):
+
 https://drive.google.com/file/d/1Fm2VlHBPpc_-Nd6IX-mnvwdjy1TqLV2D/view?usp=sharing
