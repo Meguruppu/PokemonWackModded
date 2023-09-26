@@ -1,0 +1,1518 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=POKEMONTRAINER_MABE,trchar002,girl_bike,girl_surf_offset,trchar002,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerD=POKEMONTRAINER_IDK,trchar003,IDK_bike,IDK_surf_offset,IDK_run,IDK_dive_offset,IDK_fish_offset,IDK_fishsurf_offset
+PlayerE=POKEMONTRAINER_SPOOK,spook,spook,spook,spook,spook,spook,spook
+PlayerF=POKEMONTRAINER_HELI,heli,heli,heli,heli,heli,heli,heli
+TrainerBattleBGM=Rock Wild Battle.mp3
+SurfBGM=Ship.mid
+BicycleBGM=bicycle.ogg
+Home=3,7,5,8
+WildBattleBGM=The Good Battle.mp3
+[001]
+# Intro
+[002]
+# Wack Town
+MapPosition=0,13,19
+Outdoor=true
+ShowArea=true
+[003]
+# \PN's house
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+[004]
+# Pokémon Lab
+MapPosition=0,13,12
+ShowArea=false
+[005]
+# Route 1
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+[006]
+# Kurt's house
+MapPosition=0,13,11
+[007]
+# Glacie City
+MapSize=2,11
+Weather=Snow,50
+MapPosition=0,13,17
+Outdoor=true
+ShowArea=true
+[008]
+# Daisy's house
+MapPosition=0,13,12
+[009]
+# Glacie City Poké Center
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Glacie Gym
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# Frosty Forest
+Weather=Snow,50
+MapPosition=0,14,17
+Outdoor=true
+ShowArea=true
+[012]
+# Condo
+MapPosition=0,14,10
+[013]
+# Cedolan Dept. 1F
+MapPosition=0,14,10
+[014]
+# SafeHouse
+MapPosition=0,13,10
+[015]
+# HouseGreen
+MapPosition=0,13,10
+[016]
+# RedHouse
+MapPosition=0,13,10
+[017]
+# Connectorz
+MapPosition=0,13,10
+[018]
+# HouseF1 Red
+MapPosition=0,13,10
+[019]
+# HouseF2 Red
+MapPosition=0,13,10
+[020]
+# Stronk Man
+MapPosition=0,13,10
+[021]
+# Route 2
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,9,17
+Outdoor=true
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[022]
+# Miam Cavern
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[023]
+# Miam Cavern BF
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,15,8
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[024]
+# Miam Cavern 2
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,15,8
+WildBattleBGM=fireleafbattle.mid
+HealingSpot=23,11,15
+[025]
+# Pokémon Day Care
+MapPosition=0,15,8
+Outdoor=true
+[026]
+# Seaside Village
+Bicycle=true
+MapPosition=0,9,15
+Outdoor=true
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[027]
+# Pokémon Fan Club
+MapPosition=0,15,8
+[028]
+# CONNECT SEASIDE TO ROUTE 2
+BattleBack=Forest
+Bicycle=true
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[029]
+# Seaside Village Poké Center
+Bicycle=true
+MapPosition=0,16,8
+[030]
+# Fishing Shack
+MapPosition=0,16,8
+[031]
+# CONNECT SEASIDE TO GOURMET
+MapSize=2,1101
+Bicycle=true
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[033]
+# Gourmet City
+Bicycle=true
+MapPosition=0,9,13
+Outdoor=true
+ShowArea=true
+[034]
+# The Cutting Man's House
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
+[035]
+# Gourmet Mart
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
+[036]
+# Name Rater
+MapPosition=0,13,6
+HealingSpot=35,17,7
+[037]
+# Heck
+BattleBack=EliteA
+Bicycle=true
+MapPosition=0,13,6
+[038]
+# Seas
+MapPosition=0,13,6
+[039]
+# Bicycle Shop
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+[040]
+# Gourmet Poké Center
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[041]
+# Gourmet Gym
+[044]
+# Route 3
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+WildBattleBGM=Rock Wild Battle 2.mp3
+ShowArea=true
+[045]
+# Ankh Desert
+Weather=Sandstorm,50
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,9,11
+Outdoor=true
+WildBattleBGM=Rock Wild Battle 2.mp3
+ShowArea=true
+[046]
+# Ankh ruins
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,12,6
+WildBattleBGM=Rock Wild Battle 2.mp3
+ShowArea=true
+[047]
+# Ankh  Ruins BF
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,15,10
+Outdoor=true
+WildBattleBGM=Rock Wild Battle 2.mp3
+ShowArea=true
+[049]
+# housedesert
+Bicycle=true
+MapPosition=0,16,10
+[050]
+# Route 3 (2)
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,16,10
+Outdoor=true
+WildBattleBGM=Rock Wild Battle 2.mp3
+[051]
+# Dewdrop Cavern
+Bicycle=true
+MapPosition=0,16,10
+WildBattleBGM=Rock Wild Battle 2.mp3
+ShowArea=true
+[052]
+# Battle Frontier
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
+[053]
+# Battle Frontier Poké Center
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Battle Frontier Mart
+MapPosition=0,17,10
+[055]
+# Battle Tower
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Battle Tower arena
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Stadium Cup lobby
+MapPosition=0,17,10
+[058]
+# Battle Palace
+MapPosition=0,17,10
+[059]
+# Battle Palace arena
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+# Battle Arena
+MapPosition=0,17,10
+[061]
+# Battle Arena arena
+BattleBack=EliteB
+MapPosition=0,17,10
+[066]
+# Safari Zone
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+[067]
+# Safari Zone gate
+MapPosition=0,12,12
+[068]
+# Safari Zone
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[069]
+# Juvite Mart
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+[070]
+# Side Town
+Bicycle=true
+MapPosition=0,9,8
+Outdoor=true
+ShowArea=true
+[071]
+# Side Poké Center
+MapPosition=0,13,13
+[072]
+# A houssee
+MapPosition=0,18,17
+[073]
+# Houuuse
+MapPosition=0,22,16
+[074]
+# Route 4
+Bicycle=true
+MapPosition=0,12,10
+Outdoor=true
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[075]
+# Scorching Cavern
+MapPosition=1,13,16
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[077]
+# Flock Grotto
+ShowArea=true
+[078]
+# Rodent Grotto
+ShowArea=true
+[079]
+# Crawly Grotto
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[080]
+# Latex Town
+Bicycle=true
+MapPosition=0,7,8
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[082]
+# Juvite Mart BF
+TrainerBattleBGM=Rock Wild Battle.mp3
+[084]
+# Misty Cavern
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[085]
+# Rocky Crevase
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[087]
+# Witch Island
+Bicycle=true
+TrainerVictoryME=004-Victory04.mid
+TrainerBattleBGM=Dread of the Grave.mp3
+Outdoor=true
+ShowArea=true
+[088]
+# Arid Cavern
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[089]
+# Mansion
+TrainerVictoryME=004-Victory04.mid
+TrainerBattleBGM=worldenddominator.mp3
+ShowArea=true
+[092]
+# Route 5
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[097]
+# Graveyard
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[098]
+# Graveyard 1F
+TrainerBattleBGM=Rock Wild Battle.mp3
+[099]
+# Graveyard 2F
+TrainerVictoryME=004-Victory04.mid
+TrainerBattleBGM=002-Battle02.mid
+[100]
+# Graveyard 3F
+TrainerBattleBGM=Rock Wild Battle.mp3
+[101]
+# Graveyard Top Floor
+TrainerBattleBGM=Rock Wild Battle.mp3
+[102]
+# Romero City
+Bicycle=true
+TrainerBattleBGM=Cave.mid
+MapPosition=0,9,6
+Outdoor=true
+ShowArea=true
+[103]
+# Rocky Chamber
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+ShowArea=true
+[104]
+# Spooky Woods
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[107]
+# Romero Gym
+BattleBack=
+TrainerBattleBGM=Rock Wild Battle.mp3
+[108]
+# Game Corner
+[115]
+# Route 6
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[116]
+# Route 7
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+MapPosition=0,11,1
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[117]
+# Route 8
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[118]
+# Route 9
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[121]
+# Surfin City
+Weather=Rain,20
+Bicycle=true
+MapPosition=0,11,5
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[125]
+# Southern Island
+BattleBack=
+Weather=Rain,1
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Boss02.mid
+ShowArea=true
+[126]
+# Gem Trou
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[127]
+# Seaside Cavern
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+ShowArea=true
+[129]
+# Icy Chamber
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+ShowArea=true
+[130]
+# Isle of Seasons
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,100
+[131]
+# Shock Peak
+WildBattleBGM=002-Battle02x.mid
+ShowArea=true
+[132]
+# Flare Peak
+WildBattleBGM=002-Battle02x.mid
+ShowArea=true
+[133]
+# Frost Peak
+WildBattleBGM=002-Battle02x.mid
+ShowArea=true
+[135]
+# Shock Island
+Weather=Storm,25
+ShowArea=true
+[136]
+# Flare Island
+Weather=Sunny,41
+Bicycle=true
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[137]
+# Frost Island
+Weather=Blizzard,30
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[139]
+# Seaside Cavern
+Bicycle=true
+[149]
+# Faroff Town
+Bicycle=true
+MapPosition=0,5,8
+Outdoor=true
+ShowArea=true
+[151]
+# Seaside Cavern
+Bicycle=true
+[152]
+# Route 7
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[153]
+# Synth City
+Bicycle=true
+MapPosition=0,19,15
+Outdoor=true
+HealingSpot=153,41,38
+ShowArea=true
+[157]
+# Junkyard
+Weather=Rain,5
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[158]
+# Store House
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[159]
+# Abandoned Mansion
+Bicycle=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[160]
+# The Library
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[162]
+# Cybergate City
+Bicycle=true
+MapPosition=0,8,2
+Outdoor=true
+ShowArea=true
+[171]
+# Abandone Town
+Weather=Storm,16
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[172]
+# Abandoned gym
+TrainerBattleBGM=0JohnCena.mp3
+ShowArea=true
+[175]
+# Cave Room
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[176]
+# Forest Room
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[177]
+# War Room
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[178]
+# Aqua Room
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[191]
+# Isle of the Beasts
+Weather=Storm,30
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[192]
+# Thunder Shrine
+Weather=Storm,40
+Bicycle=true
+Outdoor=true
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[193]
+# Volcano Shrine
+Weather=Sunny,35
+Bicycle=true
+Outdoor=true
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[194]
+# iCity
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[195]
+# North Shrine
+Weather=Rain,30
+Bicycle=true
+Outdoor=true
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[200]
+# Juvite Corps
+ShowArea=true
+[201]
+# Three Lake Island
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[202]
+# Cavern of Knowledge
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[203]
+# Cavern of Emotion
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[204]
+# Cavern of Willpower
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[209]
+# Liberty Island
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[210]
+# Victory Chamber
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[213]
+# Prehistoric Island Gate
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[214]
+# Shallows Cave
+Bicycle=true
+ShowArea=true
+[218]
+# The Slums
+Weather=Storm,10
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[220]
+# Volcano Plateau
+Weather=Sunny,30
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[222]
+# Top Volcano
+Bicycle=true
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+[223]
+# Windy Plateau
+Weather=Storm,70
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[224]
+# Stormy Cavern
+Weather=Storm,100
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[226]
+# Route 10
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[228]
+# Misty Beach
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[232]
+# Rich House BF
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[236]
+# Nuclear Forest
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[237]
+# Misty Cavern
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[239]
+# Library Room
+WildBattleBGM=RockBoss.mp3
+[243]
+# Cherno City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[250]
+# Power Plant
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[251]
+# Power Plant BF
+TrainerBattleBGM=Rock Wild Battle.mp3
+ShowArea=true
+[253]
+# Green Roof
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=RockBoss.mp3
+[255]
+# Power Plant BF2
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[257]
+# Pagan Woods
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[260]
+# Moon Island
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[262]
+# Gold Tower
+Bicycle=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[263]
+# Gold Tower F2
+Bicycle=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[264]
+# Gold Tower F3
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[265]
+# Gold Tower Peak
+Bicycle=false
+Outdoor=true
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[266]
+# Spiral Cave
+Bicycle=false
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+Weather=Rain,100
+ShowArea=true
+[268]
+# Route 11
+Weather=Rain,15
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[269]
+# Getcha Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[275]
+# Rektown
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[277]
+# Route 12
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[282]
+# Cyber World HUB
+ShowArea=true
+[284]
+# Data Fields
+BattleBack=battlebgCyber.png
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+ShowArea=true
+[287]
+# Social Media
+BattleBack=battlebgCyber.png
+TrainerBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+[289]
+# Data Mines
+BattleBack=battlebgCyber.png
+Bicycle=true
+TrainerBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+Outdoor=true
+WildBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+ShowArea=true
+[291]
+# DEEP WEB
+BattleBack=battlebgCyber
+Bicycle=true
+TrainerBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+Outdoor=true
+WildBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+ShowArea=true
+[294]
+# Corrupted Crags
+BattleBack=battlebgCyber
+Bicycle=true
+TrainerBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+Outdoor=true
+WildBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+ShowArea=true
+[295]
+# Forgotten Depths
+BattleBack=battlebgCyber
+Bicycle=true
+WildBattleBGM=Giratina (Glitch).mp3
+ShowArea=true
+[296]
+# Glitch
+BattleBack=battlebgCyber
+Bicycle=true
+WildBattleBGM=Pokemon Platinum  - Giratina Battle Theme Remix.mp3
+ShowArea=true
+[300]
+# Beneath the Core
+BattleBack=Cyber
+Bicycle=true
+WildBattleBGM=Legendary Remix.mp3
+ShowArea=true
+[303]
+# Purification Camp
+Bicycle=true
+WildBattleBGM=002-Battle02x.mid
+ShowArea=true
+[304]
+# Beneath the Camp
+Bicycle=true
+WildBattleBGM=002-Battle02x.mid
+ShowArea=true
+[305]
+# Kanto
+MapPosition=1,5,10
+Outdoor=true
+[306]
+# Viridian Gym
+Bicycle=false
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[310]
+# Secret Basement
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Experiment Battle Theme.mp3
+ShowArea=true
+[312]
+# Zaydolf
+Bicycle=true
+WildBattleBGM=Legendary Remix.mp3
+ShowArea=true
+[313]
+# Pagan Woods
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[315]
+# Arcania City
+Bicycle=true
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+ShowArea=true
+[316]
+# Arcania Gym
+TrainerBattleBGM=Gym H Remix.mp3
+[319]
+# Arcania Gym BF1
+TrainerBattleBGM=Gym H Remix.mp3
+WildBattleBGM=002-Battle02x.mid
+[321]
+# Arcania Gym BF3
+TrainerBattleBGM=Gym H Remix.mp3
+WildBattleBGM=002-Battle02x.mid
+[322]
+# Arcania Gym BF4
+TrainerBattleBGM=Gym H Remix.mp3
+WildBattleBGM=002-Battle02x.mid
+[325]
+# Victory Road
+TrainerBattleBGM=Pokémon The Origins - Charmander VS Onix Theme (HD).mp3
+Outdoor=true
+WildBattleBGM=Pokémon The Origins - Charmander VS Onix Theme (HD).mp3
+ShowArea=true
+[327]
+# Eternal Grove
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[330]
+# Victory Road
+TrainerBattleBGM=The Good Battle.mp3
+Outdoor=true
+WildBattleBGM=Pokémon The Origins - Charmander VS Onix Theme (HD).mp3
+[331]
+# Victory Road
+TrainerBattleBGM=Rock Wild Battle.mp3
+Outdoor=true
+WildBattleBGM=Rock Wild Battle.mp3
+[335]
+# Wishing Well
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[341]
+# Tao Island
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=Legendary Remix.mp3
+ShowArea=true
+[342]
+# Tao Island
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=Legendary Remix.mp3
+[343]
+# Central Temple
+TrainerBattleBGM=Rock Wild Battle.mp3
+WildBattleBGM=Legendary Remix.mp3
+[345]
+# Wack Town?
+TrainerBattleBGM=SpookWind.wav
+Outdoor=false
+WildBattleBGM=SpookWind.wav
+[346]
+# Cave
+TrainerBattleBGM=SpookWind.wav
+Outdoor=false
+WildBattleBGM=SpookWind.wav
+[347]
+# Rich House
+TrainerBattleBGM=SpookWind.wav
+Outdoor=false
+[351]
+# RuinsRuinsRuinsRuinsRuinsRuinsRuinsRuins
+TrainerBattleBGM=SpookWind.wav
+Outdoor=false
+WildBattleBGM=SpookWind.wav
+[357]
+# Route ???
+DiveMap=358
+[360]
+# Underwater
+TrainerBattleBGM=Dio - Holy Diver
+[361]
+# Hallow's Woods
+Outdoor=true
+WildBattleBGM=Spooky Scary Midi.mp3
+ShowArea=true
+[362]
+# Haunted Mansion
+TrainerBattleBGM=Spooky Scary Midi.mp3
+Outdoor=true
+WildBattleBGM=Spooky Scary Midi.mp3
+ShowArea=true
+[363]
+# Arctic Ocean
+DiveMap=360
+Outdoor=true
+[365]
+# Arctic
+Outdoor=true
+ShowArea=true
+[366]
+# Arctic Outpost
+Weather=Snow,100
+Outdoor=true
+[367]
+# Arctic
+Weather=Snow,100
+Outdoor=true
+WildBattleBGM=lakeme.mp3
+[368]
+# Mountains of Insanity
+WildBattleBGM=lakeme.mp3
+ShowArea=true
+[369]
+# Mountains of Insanity
+Weather=Snow,100
+Outdoor=true
+WildBattleBGM=lakeme.mp3
+[370]
+# Elder City
+Outdoor=true
+WildBattleBGM=killed.ogg
+ShowArea=true
+[386]
+# Sloggoth Pits
+Outdoor=true
+WildBattleBGM=lakeme.mp3
+ShowArea=true
+[387]
+# Sloggoth Pits
+WildVictoryME=Mørk Skog - Tekeli-li.ogg
+Outdoor=true
+WildBattleBGM=Mørk Skog - Tekeli-li.ogg
+[388]
+# Sloggoth Pits
+WildVictoryME=Mørk Skog - Tekeli-li.ogg
+Outdoor=true
+WildBattleBGM=Mørk Skog - Tekeli-li.ogg
+[393]
+# Sea Chamber
+WildBattleBGM=GKR.ogg
+[394]
+# Land Chamber
+WildBattleBGM=GKR.ogg
+[398]
+# Rayquaza
+WildBattleBGM=GKR.ogg
+[400]
+# Leaving earth
+BattleBack=Emoon
+[403]
+# The Moon
+BattleBack=Moon
+Outdoor=true
+ShowArea=true
+[404]
+# Pokeball Factory
+Outdoor=false
+WildBattleBGM=RockBoss.mp3
+ShowArea=true
+[409]
+# The Moon
+BattleBack=Moon
+Outdoor=true
+[410]
+# The Moon
+BattleBack=Moon
+Outdoor=true
+[411]
+# The Moon
+BattleBack=Moon
+Outdoor=true
+[413]
+# The Moon
+BattleBack=Moon
+Outdoor=true
+[414]
+# The Moon
+BattleBack=Meat
+Outdoor=true
+[415]
+# The Moon?
+BattleBack=Moon
+Outdoor=true
+[417]
+# S.S Battle
+TrainerBattleBGM=Neil Cicierega - The End.ogg
+[419]
+# Moon?
+BattleBack=Eyes
+[427]
+# The Core of the Moon
+BattleBack=Eyes
+[428]
+# HIM
+BattleBack=Eyes
+[435]
+# Solar System
+BattleBack=Space
+[436]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[437]
+# The Edge of Reality
+BattleBack=Final
+[439]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[443]
+# Stone Chamber
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+[446]
+# Iron Chamber
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+[447]
+# Ice Chamber
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+[458]
+# Chamber of the Ages
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+[462]
+# Chamber of the Dark Age
+WildBattleBGM=Pokemon RSE Regi Trio Battle Music.mp3
+[463]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[467]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[468]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[469]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[470]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[473]
+# Strange Meteor
+BattleBack=Space
+TrainerBattleBGM=deo.ogg
+WildBattleBGM=deo.ogg
+[474]
+# The Edge of Reality
+BattleBack=Final
+[476]
+# ROUTE 2
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[477]
+# VIRIDIAN FOREST
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[478]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[479]
+# PEWTER CITY
+MapPosition=1,5,6
+Outdoor=true
+[482]
+# ROUTE 3
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[487]
+# MT. MOON
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[488]
+# MT. MOON
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[489]
+# MT. MOON
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[490]
+# ROUTE 4
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[491]
+# CERULEAN CITY
+TrainerBattleBGM=frlg_trainerbattle.ogg
+MapPosition=1,15,5
+Outdoor=true
+WildBattleBGM=frlg_wildpoke.ogg
+[494]
+# ROUTE 24
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[495]
+# ROUTE 25
+TrainerBattleBGM=frlg_trainerbattle.ogg
+WildBattleBGM=frlg_wildpoke.ogg
+[496]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[505]
+# LAVENDER TOWN
+MapPosition=1,19,8
+Outdoor=true
+WildBattleBGM=Horror-ansyou_loop.ogg
+[511]
+# VERMILION CITY
+MapPosition=1,15,11
+Outdoor=true
+[516]
+# CELADON CITY
+MapPosition=1,12,8
+Outdoor=true
+[525]
+# SAFFRON CITY
+MapPosition=1,15,8
+Outdoor=true
+[532]
+# PALLET TOWN
+MapPosition=1,5,13
+Outdoor=true
+[540]
+# FUCHSIA CITY
+MapPosition=1,13,14
+Outdoor=true
+[548]
+# CINNABAR ISLAND
+BattleBack=CGlitch
+MapPosition=1,5,16
+Outdoor=true
+WildBattleBGM=battlemissing.mp3
+[613]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[647]
+# BURIED
+WildBattleBGM=Horror-ansyou_loop.ogg
+[653]
+# INDIGO PLATEAU
+MapPosition=1,3,5
+Outdoor=true
+[659]
+# Safari zone 1
+SafariMap=true
+WildBattleBGM=frlg_wildpoke.ogg
+[660]
+# Safari zone 2
+SafariMap=true
+WildBattleBGM=frlg_wildpoke.ogg
+[661]
+# Safari zone 3
+SafariMap=true
+WildBattleBGM=frlg_wildpoke.ogg
+[662]
+# Safari zone 4
+SafariMap=true
+WildBattleBGM=frlg_wildpoke.ogg
+[664]
+# Safari Zone
+SafariMap=true
+[665]
+# Safari Zone
+BattleBack=Cave
+SafariMap=true
+[672]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[673]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[674]
+# Mars
+BattleBack=Mars
+WildBattleBGM=marstechno.ogg
+[678]
+# Cerulean Cave 1
+WildBattleBGM=frlg_wildpoke.ogg
+[679]
+# Cerulean Cave 2
+WildBattleBGM=frlg_wildpoke.ogg
+[680]
+# Cerulean Cave 3
+WildBattleBGM=frlg_wildpoke.ogg
+[693]
+# Arabia
+Weather=Sunny,100
+Bicycle=true
+[697]
+# Mysterious Arena
+WildBattleBGM=mewtwo.ogg
+[706]
+# Trial Chamber
+WildBattleBGM=taputheme.ogg
+[709]
+# Prison Cell
+TrainerBattleBGM=jotarotheme.ogg
+[712]
+# Plane
+TrainerBattleBGM=jotarotheme.ogg
+[713]
+# Tiger Balm Gardens
+TrainerBattleBGM=jotarotheme.ogg
+[715]
+# Ship
+TrainerBattleBGM=jotarotheme.ogg
+[718]
+# Ship BF1
+TrainerBattleBGM=jotarotheme.ogg
+[722]
+# India
+Weather=Rain,50
+TrainerBattleBGM=jotarotheme.ogg
+[723]
+# Mars Mine
+DarkMap=true
+WildBattleBGM=Horror-NeverLookBack.mp3
+[724]
+# Mars Mine
+DarkMap=true
+WildBattleBGM=Horror-NeverLookBack.mp3
+[725]
+# Mars Mine
+DarkMap=true
+WildBattleBGM=Horror-NeverLookBack.mp3
+[726]
+# Mars Depths
+DarkMap=true
+WildBattleBGM=Horror-NeverLookBack.mp3
+[727]
+# Venus
+BattleBack=Venus
+[728]
+# Safari Zone
+BattleBack=Forest
+SafariMap=true
+Outdoor=true
+WildBattleBGM=Wild Tele.mp3
+ShowArea=true
+[737]
+# Venus
+BattleBack=Venus
+[738]
+# Venus
+BattleBack=Venus
+[740]
+# Mercury
+BattleBack=Mercury
+[741]
+# Strip Club
+WildBattleBGM=Legendary Remix.mp3
+[742]
+# Nature Shrine
+WildBattleBGM=Legendary Remix.mp3
+[743]
+# Ultra Deep Sea
+WildBattleBGM=ultrabeast.ogg
+[744]
+# Ultra Desert
+WildBattleBGM=ultrabeast.ogg
+[751]
+# India
+Weather=Rain,20
+TrainerBattleBGM=jotarotheme.ogg
+[754]
+# Ultra Jungle
+WildBattleBGM=ultrabeast.ogg
+[755]
+# Ultra Plant
+WildBattleBGM=ultrabeast.ogg
+[756]
+# Ultra Crater
+WildBattleBGM=ultrabeast.ogg
+[757]
+# Ultra Forest
+WildBattleBGM=ultrabeast.ogg
+[064]
+# Ultra Ruins
+WildBattleBGM=ultrabeast.ogg
+[760]
+# The Sun
+BattleBack=Sun
+Weather=Sunny,99
+[761]
+# The Sun
+BattleBack=Sun
+Weather=Sunny,99
+[62]
+# The Sun
+BattleBack=Sun
+Weather=Sunny,99
+[65]
+# The Sun
+BattleBack=Sun
+Weather=Sunny,99
+[729]
+# The Sun
+BattleBack=Sun
+Weather=Sunny,100
+[730]
+# Core of the Sun
+BattleBack=Sungif
+Weather=Sunny,100
+[731]
+# Surface of the Sun
+BattleBack=Sun
+Weather=Sunny,100
+[733]
+# Surface of the Sun
+BattleBack=Sun
+Weather=Sunny,100
+[735]
+# Home
+BattleBack=Eyes
+[753]
+# aaaaaaaaaaaaaaaaaaaaaaaa
+BattleBack=Eyes
+[758]
+# Train
+BattleBack=Eyes
+[759]
+# Truth
+BattleBack=Eyes
+[762]
+# THE Truth
+BattleBack=stars
+[763]
+# Trees
+BattleBack=Junglenight
+[771]
+# Shadow Cavern
+DarkMap=true
+[773]
+# School
+DarkMap=true
+BattleBack=aagdhbfbgf
+[774]
+# Basement
+DarkMap=true
+BattleBack=aagdhbfbgf
+[775]
+# You Can
+BattleBack=Space
+[779]
+# SAAEEA
+BattleBack=DeepSea
+[782]
+# Two False Worlds
+BattleBack=stars
+[783]
+# Zaydolf
+BattleBack=stars
+[784]
+# Anne
+BattleBack=stars
+[804]
+# ???
+BattleBack=Annea
+[805]
+# World Between Worlds
+BattleBack=stars
+[809]
+# Radio Tower
+DarkMap=true
+[808]
+# Radio Tower
+DarkMap=true
+[810]
+# Outer Outer Space
+ShowArea=true
+BattleBack=stars
+[814]
+# Water World
+BattleBack=WaterNight
+[818]
+# Outer Path
+ShowArea=true
+WildBattleBGM=ultrabeast.ogg
+BattleBack=stars
+[820]
+# Court of the Daemon Sultan
+ShowArea=true
+WildBattleBGM=Mirage Coordinator.mp3
+BattleBack=stars
+[821]
+# Water World
+BattleBack=WaterNight

@@ -1,0 +1,160 @@
+# Route 3 (44) - Gourmet City (33)
+44,South,0,33,North,13
+# Ankh Desert (45) - Route 3 (44)
+45,South,0,44,North,0
+# Ankh Desert (45) - Route 3 (2) (50)
+45,North,3,50,South,0
+# Side Town (70) - Route 3 (2) (50)
+70,South,1,50,North,0
+# Latex Town (80) - Route 4 (74)
+80,East,5,74,West,0
+# Side Town (70) - Route 4 (74)
+70,West,0,74,East,0
+# Route 5 (92) - Route 4 (74)
+92,South,0,74,North,42
+# Route 5 (92) - Graveyard (97)
+92,East,0,97,West,12
+# Route 5 (92) - Side Town (70)
+92,South,3,70,North,0
+# Surfin City (121) - Route 6 (115)
+121,West,17,115,East,0
+# Route 7 (116) - Surfin City (121)
+116,South,2,121,North,0
+# Route 9 (118) - Route 8 (117)
+118,South,0,117,North,8
+# Romero City (102) - Route 8 (117)
+102,North,0,117,South,9
+# Route 9 (118) - Cybergate City (162)
+118,North,0,162,South,0
+# Route 7 (152) - Abandone Town (171)
+152,North,0,171,South,49
+# Synth City (153) - Abandone Town (171)
+153,West,10,171,East,0
+# Synth City (153) - Junkyard (157)
+153,East,8,157,West,0
+# Synth City (153) - Route 7 (152)
+153,South,9,152,North,0
+# The Slums (218) - iCity (194)
+218,East,4,194,West,0
+# Seaside Village (26) - Seas (38)
+26,East,0,38,West,0
+# Ocean (241) - Seas (38)
+241,West,25,38,East,0
+# Rektown (275) - Safari Zone (66)
+275,West,10,66,East,0
+# Route 12 (277) - Getcha Town (269)
+277,North,0,269,South,0
+# Route 11 (268) - Getcha Town (269)
+268,South,2,269,North,0
+# Cutcha Town (278) - Cherno City (243)
+278,East,0,243,West,129
+# Pagan Woods (257) - Cherno City (243)
+257,West,4,243,East,0
+# Route 11 (268) - Cherno City (243)
+268,East,1,243,West,0
+# Cutcha Town (278) - Route 12 (277)
+278,North,0,277,South,8
+# Arctic (367) - Arctic (365)
+367,South,0,365,North,7
+# ROUTE 2 (476) - PEWTER CITY (479)
+476,North,0,479,South,2
+# ROUTE 3 (482) - PEWTER CITY (479)
+482,West,0,479,East,16
+# ROUTE 4 (483) - ROUTE 3 (482)
+483,South,0,482,North,60
+# ROUTE 9 (499) - ROUTE 10 (500)
+499,East,0,500,West,0
+# ROUTE 24 (494) - ROUTE 25 (495)
+494,East,0,495,West,1
+# CERULEAN CITY (491) - ROUTE 4 (490)
+491,West,0,490,East,4
+# ROUTE 5 (498) - ROUTE 4 (490)
+498,West,0,490,East,44
+# ROUTE 24 (494) - ROUTE 4 (490)
+494,West,39,490,East,0
+# ROUTE 5 (498) - CERULEAN CITY (491)
+498,North,0,491,South,0
+# ROUTE 9 (499) - CERULEAN CITY (491)
+499,West,0,491,East,5
+# ROUTE 24 (494) - CERULEAN CITY (491)
+494,South,0,491,North,0
+# ROUTE 9 (499) - ROUTE 5 (498)
+499,West,35,498,East,0
+# ROUTE 12 lavender (508) - ROUTE 8 (506)
+508,West,0,506,East,24
+# Route 10 Lavender (504) - ROUTE 8 (506)
+504,West,76,506,East,0
+# LAVENDER TOWN (505) - ROUTE 8 (506)
+505,West,0,506,East,4
+# LAVENDER TOWN (505) - ROUTE 12 lavender (508)
+505,South,0,508,North,0
+# LAVENDER TOWN (505) - Route 10 Lavender (504)
+505,North,0,504,South,0
+# ROUTE 6 (512) - VERMILION CITY (511)
+512,South,0,511,North,3
+# ROUTE 11 left (507) - VERMILION CITY (511)
+507,West,0,511,East,1
+# CELADON CITY (516) - ROUTE 7 (517)
+516,East,2,517,West,0
+# CELADON CITY (516) - ROUTE 16 (518)
+516,West,2,518,East,0
+# ROUTE 17 (536) - ROUTE 16 cycle (535)
+536,North,0,535,South,0
+# ROUTE 18 CYCLE (537) - ROUTE 17 (536)
+537,North,0,536,South,6
+# ROUTE 12 (509) - ROUTE 13 (541)
+509,South,0,541,North,48
+# ROUTE 14 (542) - ROUTE 13 (541)
+542,East,0,541,West,0
+# ROUTE 14 (542) - ROUTE 12 (509)
+542,North,72,509,South,0
+# ROUTE 11 right (510) - ROUTE 12 (509)
+510,East,0,509,West,51
+# ROUTE 15 right (543) - ROUTE 14 (542)
+543,East,0,542,West,39
+# ROUTE 18 (539) - ROUTE 19 (544)
+539,South,72,544,North,0
+# ROUTE 15 left (666) - ROUTE 19 (544)
+666,West,41,544,East,0
+# ROUTE 20 Right (545) - ROUTE 19 (544)
+545,East,0,544,West,40
+# FUCHSIA CITY (540) - ROUTE 19 (544)
+540,South,12,544,North,0
+# FUCHSIA CITY (540) - ROUTE 18 (539)
+540,West,0,539,East,0
+# FUCHSIA CITY (540) - ROUTE 15 left (666)
+540,East,0,666,West,0
+# Kanto (305) - ROUTE 22 (650)
+305,West,6,650,East,0
+# ROUTE 1 (531) - ROUTE 22 (650)
+531,North,0,650,South,59
+# ROUTE 21 (547) - ROUTE 20 Left (546)
+547,South,30,546,North,0
+# CINNABAR ISLAND (548) - ROUTE 20 Left (546)
+548,East,0,546,West,0
+# CINNABAR ISLAND (548) - ROUTE 21 (547)
+548,North,0,547,South,0
+# PALLET TOWN (532) - ROUTE 21 (547)
+532,South,0,547,North,0
+# ROUTE 1 (531) - Kanto (305)
+531,North,0,305,South,6
+# PALLET TOWN (532) - ROUTE 1 (531)
+532,North,0,531,South,0
+# INDIGO PLATEAU (653) - Route 23 up (652)
+653,South,0,652,North,4
+# Glacie City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Wack Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Wack Town (2) - Route Victor (324)
+2,South,0,324,North,1
+# Glacie City (7) - Frosty Forest (11)
+7,North,23,11,South,0
+# Battle Frontier (52) - Glacie City (7)
+52,West,3,7,East,0
+# Route 2 (21) - Glacie City (7)
+21,East,3,7,West,0
+# The Ranch (146) - Wack Town (2)
+146,East,13,2,West,0
+# Kooky Town (956) - Route -1 (418)
+956,North,6,418,South,0

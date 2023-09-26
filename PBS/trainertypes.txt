@@ -1,0 +1,396 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+0,POKEMONTRAINER_Red,Pokémon Trainer,60,,,,Male,
+1,POKEMONTRAINER_Leaf,Pokémon Trainer,60,,,,Female,
+2,POKEMONTRAINER_Brendan,Pokémon Trainer,60,,,,Male,
+3,POKEMONTRAINER_May,Pokémon Trainer,60,,,,Female,
+4,RIVAL1,Rival,16,,,,Male,255
+5,RIVAL2,Rival,100,frlg_championbattle.ogg,,,Male,255
+6,AROMALADY,Aroma Lady,32,,,,Female,150
+7,BEAUTY,Beauty,56,,,,Female,150
+8,BIKER,Biker,32,,,,Male,100
+9,BIRDKEEPER,Bird Keeper,32,,,,Male,125
+10,BUGCATCHER,Bug Catcher,16,,,,Male,100
+11,BURGLAR,Burglar,88,,,,Male,32
+12,CHANELLER,Channeler,32,,,,Female,90
+13,CUEBALL,Cue Ball,24,,,,Male,
+14,ENGINEER,Engineer,48,,,,Male,155
+15,FISHERMAN,Fisherman,32,,,,Male,125
+16,GAMBLER,Gambler,72,,,,Male,160
+17,GENTLEMAN,Gentleman,72,,,,Male,255
+18,HIKER,Hiker,32,,,,Male,
+19,JUGGLER,Juggler,32,,,,Male,165
+20,LADY,Lady,160,,,,Female,190
+21,PAINTER,Painter,16,,,,Female,125
+22,POKEMANIAC,Poké Maniac,64,,,,Male,
+23,POKEMONBREEDER,Pokémon Breeder,48,,,,Female,
+24,PROFESSOR,Professor,100,,,,Male,255
+25,ROCKER,Rocker,24,,,,Male,
+26,RUINMANIAC,Ruin Maniac,48,,,,Male,100
+27,SAILOR,Sailor,32,,,,Male,
+28,SCIENTIST,Scientist,48,,,,Male,190
+29,SUPERNERD,Super Nerd,48,,,,Male,185
+30,TAMER,Tamer,40,,,,Male,150
+31,BLACKBELT,Black Belt,32,,,,Male,100
+32,CRUSHGIRL,Crush Girl,24,,,,Female,100
+33,CAMPER,Camper,16,,,,Male,
+34,PICNICKER,Picnicker,16,,,,Female,
+35,COOLTRAINER_M,Cool Trainer,60,,,,Male,200
+36,COOLTRAINER_F,Cool Trainer,60,,,,Female,200
+37,YOUNGSTER,Youngster,16,,,,Male,
+38,LASS,Lass,16,,,,Female,
+39,POKEMONRANGER_M,Pokémon Ranger,60,,,,Male,125
+40,POKEMONRANGER_F,Pokémon Ranger,60,,,,Female,125
+41,PSYCHIC_M,Psychic,32,,,,Male,155
+42,PSYCHIC_F,Psychic,32,,,,Female,155
+43,SWIMMER_M,Swimmer,16,,,,Male,95
+44,SWIMMER_F,Swimmer,16,,,,Female,92
+45,SWIMMER2_M,Swimmer,16,,,,Male,32
+46,SWIMMER2_F,Swimmer,16,,,,Female,32
+47,TUBER_M,Tuber,4,,,,Male,16
+48,TUBER_F,Tuber,4,,,,Female,16
+49,TUBER2_M,Tuber,4,,,,Male,16
+50,TUBER2_F,Tuber,4,,,,Female,16
+51,COOLCOUPLE,Cool Couple,72,,,,Mixed,48
+52,CRUSHKIN,Crush Kin,48,,,,Mixed,
+53,SISANDBRO,Sis and Bro,16,,,,Mixed,48
+54,TWINS,Twins,24,,,,Mixed,
+55,YOUNGCOUPLE,Young Couple,60,,,,Mixed,32
+56,TEAMROCKET_M,Thug,32,,,,Male,
+57,TEAMROCKET_F,Team Rocket,32,,,,Female,
+58,ROCKETBOSS,Rocket Boss,100,,,,Male,255
+59,LEADER_Brock,Gym Leader,100,Typing Boss.mp3,,,Male,255
+60,LEADER_Misty,Gym Leader,100,frlg_gymbattle,,,Female,255
+61,LEADER_Surge,Gym Leader,100,frlg_gymbattle,,,Male,255
+62,LEADER_Erika,Gym Leader,100,frlg_gymbattle,,,Female,255
+63,LEADER_Koga,Gym Leader,100,frlg_gymbattle,,,Male,255
+64,LEADER_Sabrina,Gym Leader,100,frlg_gymbattle,,,Female,255
+65,LEADER_Blaine,Gym Leader,100,frlg_gymbattler,,,Male,255
+66,LEADER_Giovanni,Gym Leader,100,gymleader,,,Male,255
+67,ELITEFOUR_Lorelei,Elite Four,100,elite,,,Female,255
+68,ELITEFOUR_Bruno,Elite Four,100,elite,,,Male,255
+69,ELITEFOUR_Agatha,Elite Four,100,elite,,,Female,255
+70,SKYTRAINER,Sky Trainer,100,,,,Male,255
+71,CHAMPION,Champion,100,champion.ogg,,,Male,255
+72,LEADER_Crost,Gym Leader,100,Typing Boss.mp3,,,Male,255
+73,LEADER_Lomar,Gym Leader,100,Typing Boss.mp3,,,Male,255
+74,TEAMWACK_M,Team Wack,32,TeamWack.mp3,,,Male,145
+75,TEAMWACK_F,Team Wack,32,TeamWack.mp3,,,Female,145
+76,TEAMWACKADMINF,Team Wack Admin,100,TeamWackAdmin.mp3,,,Female,255
+77,POKETRAINERZ,PKMN Trainer,100,,,,Male,255
+78,TEAMJUVITE_M,Team Juvite,32,Isreal.mp3,,,Male,140
+79,POKETRAINERZ1,PKMN Trainer,100,Butterfly_Tea_-_Dark_Battle_X1.mp3,,,Male,255
+80,LEADER_Claire,Gym Leader,100,Typing Boss.mp3,,,Female,255
+81,HEXMANIAC,Hex Maniac,32,,,,Female,130
+82,USHIROMIYA,Ushiromiya,100,twosidesofthetruth.mp3,004-Victory04.mid,,Male,255
+83,LEADER_Vlad,Gym Leader,100,Typing Boss.mp3,,,Male,255
+84,JUVITEADMINM,Juvite Admin,100,Isreal.mp3,,,Male,255
+85,POKETRAINERZ2,PKMN Trainer,140,Butterfly_Tea_-_Dark_Battle_X1.mp3,,,Male,255
+86,TEAMWACKAF_M,TW Aqua Force,40,TeamWack.mp3,,,Male,165
+87,POKEMONTRAINERJ,Pokémon Trainer,100,Butterfly_Tea_-_Dark_Battle_X1.mp3,,,Female,255
+88,TEAMWACKAF_F,TW Aqua Force,40,TeamWack.mp3,,,Female,165
+89,TEAMWACKADMINM,Team Wack Admin,100,TeamWackAdmin.mp3,,,Male,255
+90,TEAMJUVITE_F,Team Juvite,82,Isreal.mp3,,,Female,165
+91,JUVITEADMINS,Team Juvite Admin,150,Isreal.mp3,,,Male,255
+92,LEADER_Duette,Gym Leader,100,Typing Boss.mp3,,,Female,255
+93,POKEMONTRAINER_IDK,Pokémon Trainer,60,,,,Female,
+94,LEADER_JS,Gym Leader,100,Typing Boss.mp3,,,Male,255
+95,POKEMONTRAINER_MABE,Pokémon Trainer,60,,,,Female,
+96,POKEMONTRAINER_HELI,Pokémon Trainer,60,,,,Male,
+97,JUVITEADMING,Juvite Leader,100,Israeli Anthem Techno Remix.mp3,,,Male,255
+98,MANGLO,Wack Admin,100,TeamWackAdmin.mp3,,,Male,255
+99,FAIRYTALEGIRL,Fairy Tale Girl,32,,,,Female,125
+100,POKEMONTRAINER_SPOOK,Pokémon Trainer,60,,,,Female,
+101,LEADER_HIROSHIMA,Gym Leader,100,Typing Boss.mp3,,,Male,255
+102,WAITRESS,Waitress,32,,,,Female,
+103,WAITER,Waiter,32,,,,Male,
+104,MYSTERYMAN,Mystery Man,85,,,,Male,200
+105,RICHBOY,Rich Boy,95,,,,Male,125
+106,CHEF,Chef,80,,,,Male,
+107,SNOWM,Snow Trainer,55,,,,Male,
+108,SNOWF,Snow Trainer,55,,,,Female,
+109,POKETRAINERZ3,PKMN Trainer,140,Butterfly_Tea_-_Dark_Battle_X1.mp3,,,Male,255
+110,DATA,Data,60,,,,Female,255
+111,JUVITEADMINMC,Team Juvite Admin,150,Legendary Remix.mp3,,,Male,255
+112,JUVITEADMINSC,Team Juvite Admin,150,Legendary Remix.mp3,,,Male,255
+113,NICE,Nice,80,Mirage Coordinator.mp3,,,Female,255
+114,TEAMWACKE_M,Team Wack,32,TeamWack2.mp3,,,Male,255
+115,TEAMWACKE_F,Team Wack,32,TeamWack2.mp3,,,Female,255
+116,SLZAYDOLF,Supreme Father,150,ZaydolfTrueTheme.mp3,,,Male,255
+117,CZAYDOLF,Your Friend,150,Emotions.mp3,,,Male,255
+118,CMANGLO,Corrupted,100,1Hell Waltz.mp3,,,Male,255
+119,LEADER_MERLIN,Gym Leader,100,Typing Boss.mp3,,,Male,255
+120,WIZARD,Wizard,100,,,,Male,255
+121,ELITEFOUR_Vira,Elite Four,100,elite4,,,Female,255
+122,ELITEFOUR_Cybrus,Elite Four,100,elite4,,,Male,255
+123,ELITEFOUR_Stella,Elite Four,100,elite4,,,Female,255
+124,ELITEFOUR_Neil,Elite Four,100,elite4,,,Male,255
+125,POKEMONTRAINERJ1,Pokémon Trainer,100,1Hell Waltz.mp3,,,Female,255
+126,POKETRAINERZF,Your Friend,100,FinalRival.mp3,,,Male,255
+127,HOLE,Hole,80,silence.ogg,,,Male,205
+128,CGOLDBERG,Corrupted,150,Emotions.mp3,,,Male,255
+129,THRALL,Thrall,80,,,,Female,255
+130,HISGRUNTF,HIS Grunt,80,wackcorrupted.ogg,,,Female,200
+131,HISGRUNTM,HIS Grunt,80,wackcorrupted.ogg,,,Male,200
+132,LEGENDARY,Legendary,80,RockBoss.mp3,,,Female,255
+133,TRANSFORMED,Transformed,80,deoxysremix.ogg,,,Male,200
+134,TRANSFORMEDF,Transformed,80,deoxysremix.ogg,,,Female,200
+135,GOWEN,Ever More Perfect Manifestation of the Essence of Humanity,100,Visions.mp3,,,Male,255
+136,HUMANITY,Humanity,100,HumanGods.mp3,,,Female,240
+137,SLOGGOTH,Sloggoth,100,Mørk Skog - Tekeli-li.ogg,,,Female,
+138,ASLOGGOTH,Sloggoth,100,Mørk Skog - Tekeli-li.ogg,,,Female,200
+139,ANCIENT,Ancient,100,GKR.ogg,,,Female,255
+140,GUARDIAN,Guardian,100,Queen - Dont Stop Me Now.mp3,,,Female,255
+141,TWORIVAL,Pokémon Trainer,100,upbeatmelancholy.ogg,,,Female,125
+142,MOONMAN,Pokémon Trainer,100,The Notorious B.I.G. - Hypnotize [Instrumental].mp3,,,Male,255
+143,GODDESS,Goddess,100,HumanGods.mp3,,,Female,255
+144,LUNARGUARDIAN,Lunar Guardian,100,Visions.mp3,,,Male,180
+145,LUNARGUARDIAN2,Lunar Guardian,100,darkgodsbattle.ogg,,,Male,255
+146,YOUNGSTERHIM,Youngster,100,his world.ogg,,,Male,255
+147,DANCIENT,Ancient,100,Legendary Remix.mp3,,,Female,200
+148,GODMARS,God,100,marsbringerofwar.ogg,,,Male,255
+149,PUNISHEDSHLOMO,Punished,150,isrealanthem.mp3,,,Male,255
+150,MARSSHADE,Mars Shade,150,marstechno.ogg,,,Male,185
+151,RIVALCB,PKMN Trainer,150,upbeatmelancholy.ogg,,,Male,
+152,DEOX,???,150,deox.ogg,,,Male,255
+153,HIM,Reality,100,finalbooss.ogg,finalbooss.ogg,,Male,255
+154,PROF,Prof,100,finalbooss.ogg,,,Male,255
+155,BURIEDALIVE,,100,lavenderog.ogg,,,Male,255
+156,MEWTWO,,100,mewtwo.ogg,,,Male,255
+157,WITCH,Witch,100,,,,Female,
+158,GLADION,PKMN Trainer,100,gladion.ogg,,,Male,
+159,QME,,100,,,,Male,
+160,MARSORTURED,Martian,150,marsbringerofwar.ogg,,,Male,255
+161,GODDESSV,Goddess,100,HumanGods.mp3,,,Female,200
+162,GODMER,God,100,HumanGods.mp3,,,Male,200
+163,MAY,PKMN Trainer,100,,,,Female,140
+164,LEADER_Falkner,Gym Leader,100,Typing Boss.mp3,,,Male,
+165,NICER,Nicer,100,sunbattle.ogg,,,Female,140
+166,ELIAS,Defender,100,wallytheme.mp3,,,Male,195
+167,WATERFALL,Waterfall,100,wallytheme.mp3,,,Male,140
+168,DARKPLAYER,PKMN Trainer,100,gurren.ogg,,,Male,255
+169,SATAN,The Devil,100,devil.ogg,,,Male,255
+170,GODSOL,God,100,Battle-SilverMoon.mp3,,,Male,255
+171,HIDDENMEME,God,100,Battle-SilverMoon.mp3,,,Male,140
+172,CGODSOL,Corrupted God,100,beatofrisingsun.mp3,,,Male,255
+173,PKMNRED,PKMN Legend,100,elite4,,,Male,140
+174,PKMNBLUE,PKMN Trainer,100,elite4,,,Male,140
+175,PKMNGREEN,PKMN Trainer,100,elite4,,,Female,140
+176,LEADER_Bugsy,Gym Leader,100,Typing Boss.mp3,,,Male,
+177,LEADER_Whitney,Gym Leader,100,Typing Boss.mp3,,,Female,
+178,LEADER_Morty,Gym Leader,100,Typing Boss.mp3,,,Male,
+179,LEADER_Chuck,Gym Leader,100,Typing Boss.mp3,,,Male,
+180,LEADER_Jasmine,Gym Leader,100,Typing Boss.mp3,,,Female,
+181,LEADER_Pryce,Gym Leader,100,Typing Boss.mp3,,,Male,
+182,LEADER_Clair,Gym Leader,100,Typing Boss.mp3,,,Female,
+183,CRAZYOLD,Crazy Old Woman,100,,,,Female,
+184,HISJUM,HIS Grunt,100,HISreal.ogg,,,Male,
+185,HISJUF,HIS Grunt,100,HISreal.ogg,,,Female,
+186,SUN,Sun,100,,,,Female,255
+187,FAKESAS,Faker,100,,,,Male,255
+188,BEABEE,Be a Bee,100,,,,Male,255
+189,NAMELESSD,Nameless,100,,,,Male,255
+190,POLICEMAN,Policeman,100,,,,Male,125
+191,SSSZAYDOLF,Fuhrer,150,zaydolfreturn.mp3,,,Male,255
+192,SSSSZAYDOLF,Fuhrer,150,zaydolfreturn.mp3,,,Male,255
+193,SSSANNE,Lost,150,Pokémon Ultra SunUltra Moon Battle! VS Lillie (Fanmade).mp3,,,Female,255
+194,JUPGOD,God,100,,,,Male,255
+195,SATGOD,God,100,,,,Male,255
+196,NEPGOD,God,100,,,,Male,255
+197,URGOD,God,100,,,,Male,255
+198,PLUGOD,God,100,,,,Male,255
+199,LEADER_Norman,Gym Leader,100,Typing Boss.mp3,,,Male,255
+200,LEADER_Cheren,Gym Leader,100,Typing Boss.mp3,,,Male,
+201,LEADER_Lenora,Gym Leader,100,Typing Boss.mp3,,,Female,
+202,LEADER_Ilma,Trial Captain,100,Typing Boss.mp3,,,Male,
+203,NYARLY,Mask,100,HumanGods.mp3,,,Male,140
+204,LEADER_Wallace,Gym Leader,100,Typing Boss.mp3,,,Male,
+205,LEADER_Juan,Gym Leader,100,Typing Boss.mp3,,,Male,
+206,LEADER_Wake,Gym Leader,100,Typing Boss.mp3,,,Male,
+207,LEADER_Cress,Gym Leader,100,Typing Boss.mp3,,,Male,
+208,LEADER_Marlon,Gym Leader,100,Typing Boss.mp3,,,Male,
+209,ELITE_Siebold,Elite Four,100,Typing Boss.mp3,,,Male,
+210,LEADER_Lana,Trial Captain,100,Typing Boss.mp3,,,Female,
+211,ARCHIE,Team Aqua,100,Typing Boss.mp3,,,Male,
+212,WATERHIM,Water,100,darkgodsbattle.mp3,,,Male,
+213,GRASSHIM,Grass,100,darkgodsbattle.mp3,,,Male,
+214,LEADER_Gardenia,Gym Leader,100,Typing Boss.mp3,,,Female,
+215,LEADER_Cilan,Gym Leader,100,Typing Boss.mp3,,,Male,
+216,LEADER_Ramos,Gym Leader,100,Typing Boss.mp3,,,Male,
+217,LEADER_Mallow,Trial Captain,100,Typing Boss.mp3,,,Female,
+218,FIREHIM,Fire,100,darkgodsbattle.mp3,,,Male,
+219,LEADER_Flannery,Gym Leader,100,Typing Boss.mp3,,,Female,
+220,LEADER_Chili,Gym Leader,100,Typing Boss.mp3,,,Male,255
+221,MAXIE,Team Magma,100,Typing Boss.mp3,,,Male,255
+222,LEADER_Flint,Elite Four,100,Typing Boss.mp3,,,Male,255
+223,LEADER_Kiawe,Trial Captain,100,Typing Boss.mp3,,,Male,255
+224,LEADER_Malva,Elite Four,100,Typing Boss.mp3,,,Female,255
+225,STEAMHIM,Steam,100,darkgodsbattle.mp3,,,Male,255
+226,MAGMAHIM,Magma,100,darkgodsbattle.mp3,,,Male,255
+227,WOODHIM,Wood,100,darkgodsbattle.mp3,,,Male,255
+228,GOLDENWITCH,Golden Witch,100,TheEndOfTheWorldBattleTheme.mp3,004-Victory04.mid,,Male,255
+229,LEADER_Roxanne,Gym Leader,100,Typing Boss.mp3,,,Female,255
+230,LEADER_Brawly,Gym Leader,100,Typing Boss.mp3,,,Male,255
+231,LEADER_Wattson,Gym Leader,100,Typing Boss.mp3,,,Male,255
+232,LEADER_Winona,Gym Leader,100,Typing Boss.mp3,,,Female,255
+233,LEADER_Tate,Gym Leader,100,Typing Boss.mp3,,,Male,255
+234,LEADER_Liza,Gym Leader,100,Typing Boss.mp3,,,Female,255
+235,LEADER_Roark,Gym Leader,100,Typing Boss.mp3,,,Male,255
+236,LEADER_Mayleene,Gym Leader,100,Typing Boss.mp3,,,Female,255
+237,LEADER_Byron,Gym Leader,100,Typing Boss.mp3,,,Male,255
+238,LEADER_Candice,Gym Leader,100,Typing Boss.mp3,,,Female,255
+239,LEADER_Volkner,Gym Leader,100,Typing Boss.mp3,,,Male,255
+240,LEADER_Fantina,Gym Leader,100,Typing Boss.mp3,,,Female,255
+241,LEADER_Burgh,Gym Leader,100,Typing Boss.mp3,,,Male,255
+242,LEADER_Elesa,Gym Leader,100,Typing Boss.mp3,,,Female,255
+243,LEADER_Roxie,Gym Leader,100,Typing Boss.mp3,,,Female,255
+244,LEADER_Clay,Gym Leader,100,Typing Boss.mp3,,,Male,255
+245,LEADER_Skyla,Gym Leader,100,Typing Boss.mp3,,,Female,255
+246,LEADER_Brycen,Gym Leader,100,Typing Boss.mp3,,,Male,255
+247,LEADER_Drayden,Gym Leader,100,Typing Boss.mp3,,,Male,255
+248,LEADER_Milo,Gym Leader,100,Typing Boss.mp3,,,Male,255
+249,LEADER_Nessa,Gym Leader,100,Typing Boss.mp3,,,Female,255
+250,LEADER_Kabu,Gym Leader,100,Typing Boss.mp3,,,Male,255
+251,LEADER_Bea,Gym Leader,100,Typing Boss.mp3,,,Female,255
+252,LEADER_Allister,Gym Leader,100,Typing Boss.mp3,,,Male,255
+253,LEADER_Opal,Gym Leader,100,Typing Boss.mp3,,,Female,255
+254,LEADER_Gordie,Gym Leader,100,Typing Boss.mp3,,,Male,255
+255,LEADER_Melony,Gym Leader,100,Typing Boss.mp3,,,Female,255
+256,LEADER_Piers,Gym Leader,100,Typing Boss.mp3,,,Male,255
+257,LEADER_Raihan,Gym Leader,100,Typing Boss.mp3,,,Male,255
+258,LEADER_Marnie,PKMN Trainer,100,Typing Boss.mp3,,,Female,255
+259,LEADER_Hop,PKMN Trainer,100,Typing Boss.mp3,,,Male,255
+260,LEADER_Bede,PKMN Trainer,100,Typing Boss.mp3,,,Male,255
+261,LEADER_Viola,Gym Leader,100,Typing Boss.mp3,,,Female,255
+262,LEADER_Grant,Gym Leader,100,Typing Boss.mp3,,,Male,255
+263,LEADER_Korrina,Gym Leader,100,Typing Boss.mp3,,,Female,255
+264,LEADER_Valerie,Gym Leader,100,Typing Boss.mp3,,,Female,255
+265,LEADER_Clemont,Gym Leader,100,Typing Boss.mp3,,,Male,255
+266,LEADER_Olympia,Gym Leader,100,Typing Boss.mp3,,,Female,255
+267,LEADER_Wulfric,Gym Leader,100,Typing Boss.mp3,,,Male,255
+268,LEADER_Oleana,PKMN Trainer,100,Typing Boss.mp3,,,Female,255
+269,LEADER_Rose,Chairman,100,Typing Boss.mp3,,,Male,255
+270,ROCKHIM,Rock,100,darkgodsbattle.mp3,,,Male,255
+271,MAGICHIM,Magic,100,darkgodsbattle.mp3,,,Male,255
+272,ELEMENTHIM,HIM,100,darkgodsbattle.mp3,,,Male,255
+273,LEADER_Janine,Gym Leader,100,frlg_gymbattle,,,Female,255
+274,ELITEFOUR_Will,Elite Four,100,elite4,,,Male,255
+275,ELITEFOUR_Karen,Elite Four,100,elite4,,,Female,255
+276,ELITEFOUR_Sidney,Elite Four,100,elite4,,,Male,255
+277,ELITEFOUR_Phoebe,Elite Four,100,elite4,,,Female,255
+278,ELITEFOUR_Glacia,Elite Four,100,elite4,,,Female,
+279,ELITEFOUR_Drake,Elite Four,100,elite4,,,Male,255
+280,ELITEFOUR_Marshal,Elite Four,100,elite4,,,Male,255
+281,OFFICERJ,Officer,100,frlg_gymbattle,,,Female,255
+282,LEADER_Klara,PKMN Trainer,100,Typing Boss.mp3,,,Male,255
+283,LEADER_Avery,PKMN Trainer,100,Typing Boss.mp3,,,Male,255
+284,LEADER_Sophocles,Trial Captain,100,Typing Boss.mp3,,,Male,255
+285,LEADER_Mina,Trial Captain,100,Typing Boss.mp3,,,Female,255
+286,TEAMSKULL_Guzma,Team Skull,100,Typing Boss.mp3,,,Male,255
+287,LEADER_Ryuki,PKMN Trainer,100,Typing Boss.mp3,,,Male,255
+288,CARALISS,Scientist,100,Typing Boss.mp3,,,Female,255
+289,AONE,One,100,Horror-NeverLookBack.mp3,,,Female,255
+290,MARSECH,Martian,100,,,,Male,255
+291,TRUEHIM,HIM,100,darkgodsbattle.mp3,,,Male,255
+292,EEVEEGIRL,Eevee Girl,100,Typing Boss.mp3,,,Female,255
+293,NICEST,Nicest,100,Mirage Coordinator.mp3,,,Female,255
+294,CCROST,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+295,CLOMAR,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+296,CCLAIRE,Gym Leader,100,Wack Gym Rush.ogg,,,Female,255
+297,CVLAD,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+298,CDUETTE,Gym Leader,100,Wack Gym Rush.ogg,,,Female,255
+299,CJS,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+300,CHIROSHIMA,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+301,CMERLIN,Gym Leader,100,Wack Gym Rush.ogg,,,Male,255
+302,ANNEZAYDOLF,your best friends,100,,,,Male,255
+303,SANSUNDERTALE,Undertale,100,megalovania.mp3,,,Male,255
+304,FELONIUS,Felonius,100,megalovania.mp3,,,Male,255
+305,SQUIDCOSTUME,HIM,100,megalovania.mp3,,,Male,255
+306,HIMABSOLUTE,ABSOLUTE,100,darkgodsbattle.mp3,,,Male,255
+307,PIECE,Piece,100,unisoninabyssbosstheme.mp3,,,Male,255
+308,THECREATOR,The Creator,100,UtopianDream.mp3,,,Male,255
+309,PEANUTMAN,Forgotten,100,Found a peanut.mp3,,,Male,255
+310,PEANUTMANROT,Rotted,100,MacabreFoundAPeanut.mp3,,,Male,255
+311,OKINASEASON,Hidden God Of Four Seasons,100,unowen.ogg,,,Female,255
+312,HELLEBORE,Champion Of Wack,100,SonicDarkGaia,,,Female,255
+313,MOM,Your,100,Emotions.mp3,,,Female,255
+314,DAD,Your,100,Emotions.mp3,,,Male,255
+315,CUTMAN,Cut,100,1Hell Waltz.mp3,,,Male,255
+316,SONIC,Sonic,100,SonicHisWorld.mp3,,,Male,255
+317,ZAYMOM,Zaydolf's,100,Emotions.mp3,,,Female,255
+318,NURSEJOY,Nurse,100,Pokemon Center - Pokemon Colosseum.mp3,,,Female,255
+319,REALGLITCH,Reality,100,battlemissing.mp3,,,Male,255
+320,FUGS,Wack,100,templeos.mp3,,,Male,255
+321,HYPERREESE,Hyper,100,SonicDarkGaia.mp3,,,Male,255
+322,BOYFRIEND,Funky,100,ChugJug.mp3,,,Male,255
+323,MORGAN,Wack,100,tiresonfire.ogg,,,Male,255
+324,CROUTON,Wack,100,tiresonfire.ogg,,,Male,255
+325,ZEK,Wack,100,BravelySecond.mp3,,,Male,255
+326,GEN,Wack,100,Jurassic Park Main Theme Rock Version Cover.mp3,,,Male,255
+327,TROLL,The,100,thrall.ogg,,,Male,255
+328,SEVENSIN,Deadly Seven,100,upbeatmelancholy.ogg,,,Male,255
+329,ASIMOV,Deadly Seven,100,Determination.mp3,,,Male,255
+330,SOLORUN,Solorun,100,Typing Boss.mp3,,,Male,255
+331,MAN,Wack,100,Phyrnna - dU5k M3Igb VkgN Wsxbg.mp3,,,Male,255
+332,CITRUS,Wack,100,VSLegend.mp3,,,Male,255
+333,BUTTERS,Wack,100,tiresonfire.ogg,,,Male,255
+334,SNIVY,Wack,100,Emotions.mp3,,,Male,255
+335,POKEMONTRAINER_CWC,Pokémon Trainer,60,,,,Male,
+336,PICKLEMAN,Themanthemyththelegend,100,elite4,,,Male,255
+339,SMTFIEND,Fiend,100,Shin_Megami_Tensei_Nocturne_-_Demons_Fiend_Battle.mp3,,,Male,255
+340,SMTGODLY,God,100,Shin Megami Tensei IV Final SoundtrackEnemy of God.mp3,,,Male,255
+341,SMTDEMON,Demon,100,Shin_Megami_Tensei_III_Nocturne_Music-_Fierce_Battle.mp3,,,Male,255
+342,SMTLUCIFER,The Fallen Angel,100,SMT_Nocturne_Lucifer_battle_theme.mp3,,,Male,255
+343,SMTLORDOFFLIES,Lord of Flies,100,Shin_Megami_Tensei_Nocturne_OST_-_67_Beelzebub.mp3,,,Male,255
+344,SMTMOTHER,Mother,100,Shin_Megami_Tensei_Strange_Journey_-_Last_Boss_Battle.mp3,,,Female,255
+345,SMTSATAN,Former Demon Lord,100,SMT_Nocturne_Lucifer_battle_theme.mp3,,,Male,255
+346,SMTMETA,Voice of God,100,Shin_Megami_Tensei_Nocturne_OST_-_62_Metatron.mp3,,,Male,255
+347,SMTARCHANGEL,Archangel,100,Shin Megami Tensei IV OST - Battle B5 - (Merkahbah I).mp3,,,Male,255
+348,SMTALICE,Fiend,100,Alice_-_SMT_if.mp3,,,Female,255
+349,SMTBEL,Bel,100,Shin Megami Tensei_ Devil Survivor - Deep Night.mp3,,,Male,255
+350,SUPERSECRETBSBOSS,The ,100,【FGO】Cernunnos Battle Theme BGM (Extended) - Fate-Grand Order.mp3,,,Male,255
+351,SMTDEMIFIEND,Demi-Fiend,100,Shin_Megami_Tensei_III_Nocturne_Music-_Fierce_Battle.mp3,,,Male,255
+352,THISISFAIRISWEAR,Mido,100,Shin_Megami_Tensei_III_Nocturne_Music-_Fierce_Battle.mp3,,,Male,255
+353,UNKNOWNHORROR,Roaming Fear,100,Disturbing_Video_Game_Music_49_Terror_Corridor_Sequence.mp3,,,Male,255
+354,ANCIENTGOD,God of Misanthropy,100,Project brutality Worlds End Soundtrack  - Ready too die (trailer music).mp3,,,Male,255
+355,AMALGALICH,Amalgalich,100,The_Final_Battle-_Godzilla_NES_Creepypasta_OST.mp3,,,Male,255
+356,THE,The,100,Gurren Lagann - Anti-Spiral Theme.mp3,,,Male,255
+357,MANLYHERO,Manly Hero,100,gurren.ogg,,,Male,255
+358,CLOCOUPLE,Clo Couple,100,CloverRouteMaster.mp3,,,Mixed,255
+359,SMTBOSSDEMIFIEND,True Demon,100,Shin_Megami_Tensei_III_Nocturne_Music-_Fierce_Battle.mp3,,,Male,255
+360,KINGOFGAMES,King of Games,100,Passionate Duelist Theme - Yu-Gi-Oh!.mp3,,,Male,255
+361,MORTALKOMBATTOURNAMENT,Kombatant,100,Mortal Kombat Theme Song Original.mp3,,,Male,255
+362,SONICHEDGEHOGRUSH,SEGA,100,His World (Zebrahead Version) - Sonic the Hedgehog.mp3,,,Male,255
+363,BLACKARMS,Black Arms,100,I Am (All of Me) - Shadow the Hedgehog.mp3,,,Male,255
+364,BLACKDOOMBOSS,Mastermind,100,Never Turn Back by Crush 40.mp3,,,Male,255
+365,BARBATOSMSFIGHT,Gundam Frame,100,Man With A Mission_ Raise Your Flag.mp3,,,Male,255
+366,DIGIMON,Digital Monster,100,Digimon Adventure (2020) Theme Song _ Break the chain - Takayoshi Tanimoto.mp3,,,Male,255
+367,SMTUNCLE,Uncle,100,Shin Megami Tensei- Boss (EXTENDED).mp3,,,Male,255
+368,SMTDEMON2,Demon,100,Last Battle - Devil Summoner.mp3,,,Male,255
+369,SMTDEMONRARE,Rare Demon,100,Rare Devil Battle - Digital Devil Saga 2.mp3,,,Male,255
+370,SHIVABOSS,The Benevolent Destroyer,100,Shin Megami Tensei V OST - Battle -Shiva-.mp3,,,Male,255
+371,MARATHEEVILONE,The Evil One,100,Battle - Mara - SMT_ IMAGINE.mp3,,,Male,255
+372,SMTDEMON3,Demon,100,Eat Them All - Digital Devil Saga 1.mp3,,,Male,255
+373,SETHBOSS,Desert of Chaos,100,Universe Seth Battle - SMT_ IMAGINE.mp3,,,Male,255
+374,SMTDEMON4,Demon,100,Shin Megami Tensei_ Synchronicity Prologue [OST] - Boss.mp3,,,Male,255
+375,SMTDEMON5,Demon,100,Shin Megami Tensei_ Devil Survivor - Garuda.mp3,,,Male,255
+376,SMTDEMON6,Demon,100,Devil Survivor 2 Record Breaker ost - Providence [Extended].mp3,,,Male,255
+377,SMTDEMON7,Demon,100,Devil Survivor 2_ Record Breaker -  At Last (Battle Ver.) - (Against Canopus).mp3,,,Male,255
+378,SMTDAGDABOSS,Deity,100,Shin Megami Tensei IV_ Apocalypse - Dagda Battle [Extended].mp3,,,Male,255
+379,SMTDEMON8,Demon,100,Shin Megami Tensei II - Original Battle Theme.mp3,,,Male,255
+380,SMTMASTEMABOSS,Hostility of God,100,Holy Miracle - SMT Strange Journey.mp3,,,Male,255
+381,GODSTRUENATURE,Demonized,100,Shin Megami Tensei IV_ Apocalypse - Foreseeing the Horizon [Extended].mp3,,,Male,255
+382,SMTSAMAELBOSS,Poison of God,100,Battle -Herald- - Shin Megami Tensei V OST.mp3,,,Male,255
+383,SMTLILITHBOSS,Sinful Queen,100,Monster Girl Quest! Paradox Music Lilith Sisters.mp3,,,Female,255
+384,MEPHISTOBOSS,Devils Dealer,100,Battle -DLC Boss- - Shin Megami Tensei V OST.mp3,,,Male,255
+385,CLEOPATRABOSS,Pharaoh of Beauty,100,Battle -DLC Boss- - Shin Megami Tensei V OST.mp3,,,Female,255
+386,THEGROOVE,Groovy Wanderer,100,Miror B. Battle Pokémon XD_ Gale of Darkness.mp3,,,Male,255
+387,GIANTOFIDE,The Giant God,100,Overwhelming Power Ideon Theme SRW a3.mp3,,,Male,255
+388,SMTHE,HIM,100,【かっこいいフリーBGM】Revive or Die Again【反逆の戦闘BGM】【ハロウィン】No Copyright Music.mp3,,,Male,255
+389,HEEHOOARMY,Heehoo Motherfucka,100,Shin Megami Tensei_ Synchronicity Prologue [OST] - Boss.mp3,,,Male,255
+390,GUNDAMFIGHT,White Devil,100,Mobile Suit Gundam OST 1 The Heroic Gundam.mp3,,,Male,255
+391,ZEONFIGHT,Zeon,100,Mobile Suit Gundam Zeonic Front Mission Briefing Screen.mp3,,,Male,255
+392,THEREDCOMET,Red Comet,100,Mobile Suit Gundam OST 1 Gallant Char.mp3,,,Male,255
+393,MEDABOTBATTLE,Medabot,100,Medarot 2 OST - Strike Enemy.mp3,,,Male,255
+394,SMTYALDABAOTH,False Creator,100,Persona 5 OST 105 - Jaldabaoth.mp3,,,Male,255
+395,GENIMPOSTER,???,100,OFF OST_ -05- Not Safe.mp3,,,Male,255
+396,CHRISCHANFINAL,Reality of,100,Papers Please - Death.mp3,,,Male,255
